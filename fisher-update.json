@@ -1,0 +1,18 @@
+{
+  "app": "fisher",
+  "version": "0.1.1",
+  "minimum_version": "0.1.1",
+  "enabled": true,
+  "notes": "Signed in-app updates, automatic pool cleanup and UTC quota reporting.",
+  "pub_date": "2026-10-20T05:46:41Z",
+  "platforms": {
+    "windows-x86_64-installer": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbGtpQlRqUEtCQVo1bmUxamlXeDFjbU9tbWgzeGxUVU1wTVc0eWdrczNqQkd4emRSMWZjVWVkekJNanZjQnRaTTNXSHFGTHZ3MDlIeDh2SU94UStVZEx1YlpQRmxlTUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDc1MjAwCWZpbGU6ZmlzaGVyLWluc3RhbGxlci5leGUKTWlYYjZpTUhuM1A3TnZTWTN3SHl1cnRRVlB2M2pLSml5RnpFZ2JHaUtDaWx0ckptbWJ2MHgzSTJYOGxMOVlTMnU4VDF6R3NraURvbkk4MThXZ1ZnRFE9PQo=",
+      "url": "https://github.com/mejazkhanm/Cyber-Nights-Fisher/releases/download/v0.1.1/fisher-installer.exe"
+    },
+    "windows-x86_64-portable": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbGtpQlRqUEtCQVluMkNscnBLRk95Z21uMDRGSGpCdUNpb0dSamU5U2l6bFY4bmpDYUFsK1JkNDR1MU8xeDROM1pjeGowWDd4bzJZemt1MXZXSCtoQS96ZWIrWTgzbGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDc1MjAxCWZpbGU6ZmlzaGVyLXBvcnRhYmxlLmV4ZQpPZzB5VWYvTTljMnQzanY0Z3NKV3JYYmprdEZRMWhnMVNJUmk0cGh2Vzhkdkh0dm9nWVBGV2hqcWIvYXM4ZzZxb25NeU5uWE5OM0FGNDN0bjFRWCtDUT09Cg==",
+      "url": "https://github.com/mejazkhanm/Cyber-Nights-Fisher/releases/download/v0.1.1/fisher-portable.exe"
+    }
+  }
+}

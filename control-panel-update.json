@@ -1,0 +1,18 @@
+{
+  "app": "control-panel",
+  "version": "0.1.1",
+  "minimum_version": "0.1.1",
+  "enabled": true,
+  "notes": "Signed in-app updates, automatic pool cleanup and UTC quota reporting.",
+  "pub_date": "2026-10-20T05:46:42Z",
+  "platforms": {
+    "windows-x86_64-installer": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbGtpQlRqUEtCQWNZMFZYbzVOc1ZYeDMyQkNBRSthUUc0VzF3ZG52WTVvSThSQ2NKeGtMY2RCRGpTS1ZneHhzeXpub3ZxVlRBRURuWlplTmorU2xHdGkrMU9KNUdmN2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDc1MjAyCWZpbGU6Y29udHJvbC1wYW5lbC1pbnN0YWxsZXIuZXhlCnRxTlY4Szg3LzYyQzhDZjROVkdUTHAyUjAwT0FFaHdGMjNlRDMyeEZBU0tELzNkSWtrS3ZLV1g4K0VyZzFLaWJJV0xGbjV6Y0FHQWFpdHY4b2hINUFnPT0K",
+      "url": "https://github.com/mejazkhanm/Cyber-Nights-Fisher/releases/download/v0.1.1/control-panel-installer.exe"
+    },
+    "windows-x86_64-portable": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTbGtpQlRqUEtCQVdLL0V6UVJUNW9LL3dNdEl5NUNHbU1oWG0vZEdqazVvUkp1d0xWdU1BdEI4Z1dYY0xkaEpoc1IzS2ZnbS9pYWplQU5nT09NbEFyNFU4Z2d3RThOdmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDc1MjAyCWZpbGU6Y29udHJvbC1wYW5lbC1wb3J0YWJsZS5leGUKRCtaZUo1UkdOcHZSWDcxTkFYeDNJQ1kwSysrYUZGTU02MHRTWk8wMk4vN3k4Nk9sZ2NCUmNDQldqNHZ3NWxNakVIRkRMV1JMRVdFeHo1dzlXcEVuQXc9PQo=",
+      "url": "https://github.com/mejazkhanm/Cyber-Nights-Fisher/releases/download/v0.1.1/control-panel-portable.exe"
+    }
+  }
+}
